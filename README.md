@@ -29,7 +29,7 @@ Paisa Tracker is designed to keep a track of the Income-Expense of the user on a
 
 On overall, the project has achieved its objectives. This project was prepared with the objective of providing a systematic and logical approach for managing personal and professional finances. After making this application, we assure that this application will help its users to manage the cost of their daily expenditure. It will guide them and aware them about their daily expenses. It will prove to be helpful for the people who are frustrated with their daily budget management, irritated because of amount of expenses and wishes to manage and to preserve the record of their daily cost which may be useful to change their way of spending money. In a view of time saving, less time consuming by searching accounts books manually.
 
-# Key points:
+# Key points
 
 1) Efficient way of dealing with all the daily business & personal expenses.
 2) Reduces the time-consuming traditional paper work.
