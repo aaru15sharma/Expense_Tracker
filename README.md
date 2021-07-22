@@ -6,7 +6,7 @@ Paisa Tracker is designed to keep a track of the Income-Expense of the user on a
 
 <br>People tend to overspend without realizing it, and this can prove to be disastrous. Using Paisa Tracker can help you keep track of how much you spend every day and on what. At the end of the month, you will have a clear picture of where your money is going. This is one of the best ways to get your expenses under control and bring some semblance of order to your finances.<br>
 
-#	ALGORITHM AND PROCESS DESIGN
+#	Algorithm and Process Design
 
 - The application starts with a login page. Login page asks existing user to enter their username and password. If the user is new, they can register themselves using the registration form. After successful registration, the user is directed to the login page where they have to fill the login details to proceed.<br>
 
